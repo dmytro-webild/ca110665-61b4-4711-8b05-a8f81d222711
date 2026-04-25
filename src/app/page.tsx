@@ -62,11 +62,11 @@ export default function LandingPage() {
       description="FinovaPay empowers small businesses and individuals with secure wallets, instant P2P transfers, and seamless online payment solutions designed for the modern economy."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/back-view-young-business-man-talking-phone-sitting-his-office-diagrams-monitor_482257-34736.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/back-view-young-business-man-talking-phone-sitting-his-office-diagrams-monitor_482257-34736.jpg?_wi=1",
           imageAlt: "FinovaPay Digital Wallet",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169856.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169856.jpg?_wi=1",
           imageAlt: "Secure P2P Transfers",
         },
         {
@@ -202,7 +202,7 @@ export default function LandingPage() {
           description: "Send and receive money instantly from other FinovaPay users.",
           bentoComponent: "reveal-icon",
           icon: Repeat,
-          imageSrc: "http://img.b2bpic.net/free-photo/back-view-young-business-man-talking-phone-sitting-his-office-diagrams-monitor_482257-34736.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/back-view-young-business-man-talking-phone-sitting-his-office-diagrams-monitor_482257-34736.jpg?_wi=2",
           imageAlt: "financial support chatbot interface",
         },
         {
@@ -210,7 +210,7 @@ export default function LandingPage() {
           description: "Process online payments with integrated, encrypted mechanisms.",
           bentoComponent: "reveal-icon",
           icon: CreditCard,
-          imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169856.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/representation-user-experience-interface-design_23-2150169856.jpg?_wi=2",
           imageAlt: "financial support chatbot interface",
         },
         {
@@ -218,7 +218,7 @@ export default function LandingPage() {
           description: "Transparent access to all financial activity for better management.",
           bentoComponent: "reveal-icon",
           icon: History,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1662.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1662.jpg?_wi=1",
           imageAlt: "financial support chatbot interface",
         },
       ]}
@@ -337,7 +337,7 @@ export default function LandingPage() {
           name: "Sarah Johnson",
           role: "CEO",
           testimonial: "FinovaPay has revolutionized our P2P transactions.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1662.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1662.jpg?_wi=2",
         },
         {
           id: "t2",
